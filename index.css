@@ -122,6 +122,7 @@
       border: solid 1px #FB4533;
       margin-left: 42vh;
       box-shadow: .3rem .3rem .5rem rgba(0, 0, 0, 1);
+      text-decoration: none;
     }
     .heroButton:hover{
       background-color: 	#7C8184;
